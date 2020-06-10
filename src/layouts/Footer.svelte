@@ -1,0 +1,1 @@
+<footer>Made with love by <span style="color: white;">Mudassar</span> - Inspired by <span style="color: white;">Evien</span></footer>
